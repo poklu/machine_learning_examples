@@ -3,7 +3,7 @@ Intel 8008	3,500	1972	Intel	10,000 nm	14 mm²
 Intel 8080	4,500	1974	Intel	6,000 nm	20 mm²
 Motorola 6800	4,100	1974	Motorola	6,000 nm	16 mm²
 RCA 1802	5,000	1974	RCA	5,000 nm	27 mm²
-TMS 1000	8,000	1974[7]	Texas Instruments	8,000 nm	
+TMS 1000	8,000	1974	Texas Instruments	8,000 nm	
 MOS Technology 6502	3,510[8]	1975	MOS Technology	8,000 nm	21 mm²
 Intel 8085	6,500	1976	Intel	3,000 nm	20 mm²
 Zilog Z80	8,500	1976	Zilog	4,000 nm	18 mm²
@@ -14,12 +14,12 @@ Motorola 68000	68,000	1979	Motorola	3,500 nm	44 mm²
 WDC 65C02	11,500[9]	1981	WDC	3,000 nm	6 mm²
 Intel 80186	55,000	1982	Intel	3,000 nm	60 mm²
 Intel 80286	134,000	1982	Intel	1,500 nm	49 mm²
-WDC 65C816	22,000[10]	1983	WDC		9 mm²
+WDC 65C816	22,000	1983	WDC		9 mm²
 Motorola 68020	190,000[11]	1984	Motorola	2,000 nm	85 mm²
-ARM 1	25,000[11]	1985	Acorn	3,000 nm	50 mm²
+ARM 1	25,000	1985	Acorn	3,000 nm	50 mm²
 Intel 80386	275,000	1985	Intel	1,500 nm	104 mm²
-Novix NC4016	16,000[12]	1985[13]	Harris Corporation	3,000 nm[14]	
-ARM 2	30,000[11]	1986	Acorn	2,000 nm	30 mm²
+Novix NC4016	16,000	1985	Harris Corporation	3,000 nm[14]	
+ARM 2	30,000	1986	Acorn	2,000 nm	30 mm²
 TI Explorer's 32-bit Lisp machine chip	553,000[15]	1987	Texas Instruments		
 DEC WRL MultiTitan	180,000[16]	1988	DEC WRL	1,500 nm	61 mm²
 Intel i960	250,000[17]	1988	Intel	600 nm	
@@ -28,8 +28,8 @@ Intel 80486	1,180,235	1989	Intel	1000 nm	173 mm²
 ARM 6	35,000	1991	ARM		
 R4000	1,350,000	1991	MIPS	1,000 nm	213 mm²
 Pentium	3,100,000	1993	Intel	800 nm	294 mm²
-ARM700	578,977[18]	1994	ARM		68.51 mm²
-Pentium Pro	5,500,000[19]	1995	Intel	500 nm	307 mm²
+ARM700	578,977	1994	ARM		68.51 mm²
+Pentium Pro	5,500,000	1995	Intel	500 nm	307 mm²
 SA-110	2,500,000[11]	1995	Acorn/DEC/Apple	350 nm	50 mm²
 AMD K5	4,300,000	1996	AMD	500 nm	251 mm²
 AMD K6	8,800,000	1997	AMD	350 nm	162 mm²
