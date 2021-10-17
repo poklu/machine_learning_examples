@@ -90,8 +90,6 @@ Xbox One main SoC	5,000,000,000	2013	Microsoft/AMD	28 nm	363 mm²
 15-core Xeon Ivy Bridge-EX	4,310,000,000[33]	2014	Intel	22 nm	541 mm²
 18-core Xeon Haswell-E5	5,560,000,000[35]	2014	Intel	22 nm	661 mm²
 8-core Core i7 Haswell-E	2,600,000,000[31]	2014	Intel	22 nm	355 mm²
-Apple A8 (dual-core ARM64 "mobile SoC")	2,000,000,000	2014	Apple	20 nm	89 mm²
-Apple A8X (tri-core ARM64 "mobile SoC")	3,000,000,000[32]	2014	Apple	20 nm	128 mm²
 Quad-core + GPU Core i7 Haswell	1,400,000,000[25]	2014	Intel	22 nm	177 mm²
 Duo-core + GPU Iris Core i7 Broadwell-U	1,900,000,000[27]	2015	Intel	14 nm	133 mm²
 IBM z13	3,990,000,000	2015	IBM	22 nm	678 mm²
